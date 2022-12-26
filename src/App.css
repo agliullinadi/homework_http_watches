@@ -1,0 +1,50 @@
+.main {
+  padding: 20px;
+  color: rgb(0, 0, 0);
+}
+
+.Form {
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.Watches {
+  display: flex;
+}
+
+.Watches div {
+  padding: 10px;
+}
+
+form {
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+form div {
+  width: 100%;
+}
+
+input {
+  margin-top: 5px;
+  font-size: 20px;
+  padding: 10px 15px;
+  box-sizing: border-box;
+  width: 190px;
+  outline: none;
+  margin-right: 10px;
+}
+
+form button {
+  background-color: #ffffff;
+  font-size: 20px;
+  padding: 10px 15px;
+}
+
+form button:hover {
+  background-color: #c4c4c4;
+  cursor: pointer;
+}
+
